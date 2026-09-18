@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m3264" alt="m3264" /></a> </p>
 
-- 🔭 I’m currently working on [Kord-Ai](https://github.com/M3264/Kord-Ai)
+- 🔭 I’m currently working on [9t](https://github.com/M3264/9t),[Kord-Ai](https://github.com/M3264/Kord-Ai)
 
 - 🌱 I’m currently learning **Next Js, Tensorflow**
 
