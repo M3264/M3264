@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm M3264</h1>
-<h3 align="center">A dev from ___ </h3>
+<h1 align="center">Hi 👋, I'm Kennyy</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m3264&label=Profile%20views&color=0e75b6&style=flat" alt="m3264" /> </p>
 
@@ -7,15 +6,11 @@
 
 - 🔭 I’m currently working on [9t](https://github.com/M3264/9t),[Kord-Ai](https://github.com/M3264/Kord-Ai)
 
-- 🌱 I’m currently learning **Next Js, Tensorflow**
+- 🌱 I’m currently learning **Next Js, Tensorflow, py and as much i can**
 
-- 👨‍💻 All of my projects are available at [_lazy for that_](_lazy for that_)
+- 👨‍💻 All of my projects are available here, at my github profile
 
-- 💬 Ask me about **React, Js, html, bla bla bla**
-
-- 📫 How to reach me **kordai3264@outlook.com**
-
-- ⚡ Fun fact **I'm a ...**
+- 📫 How to reach me = [Telegram](https://t.me/M32669) or [WhatsApp](https://wa.me/2349067339193)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
