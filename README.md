@@ -1,11 +1,6 @@
 <h1 align="center">Hi, I'm Kennyy 👋</h1>
 
 <p align="center">
-  <b>I turn side projects into things people actually use.</b><br>
-  Bots, workspaces, movie apps — shipped fast from Lagos to the internet.
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=M3264&label=profile+views&color=0e75b6&style=flat" alt="profile views" />
   <img src="https://img.shields.io/github/followers/M3264?style=flat&logo=github&label=followers" alt="followers" />
   <img src="https://img.shields.io/badge/focus-shipping-0e75b6?style=flat" alt="shipping" />
