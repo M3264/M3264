@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Kennyy 👋</h1>
 
 <p align="center">
-  <b>developer + indie builder.</b><br>
-  I build web apps, developer tools, bots, and occasionally things nobody asked for.
+  <b>I turn side projects into things people actually use.</b><br>
+  Bots, workspaces, movie apps — shipped fast from Lagos to the internet.
 </p>
 
 <p align="center">
