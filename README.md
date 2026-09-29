@@ -37,7 +37,6 @@
 | **[FilmBase](https://github.com/M3264/FilmBase)** | Movie discovery + caching + sharing. | TypeScript |
 | **[ProofPay](https://github.com/M3264/ProofPay)** | Verifiable freelance milestone escrow on Base Sepolia. | Solidity / Web3 |
 | **[blog-api-go](https://github.com/M3264/blog-api-go)** | Blog API in Go. Fast and boring on purpose. | Go |
-| **[ssweb-api](https://github.com/M3264/ssweb-api)** | Screenshot / screen-record websites with options. | Node.js, Puppeteer |
 
 More: [all 37 public repos here](https://github.com/M3264?tab=repositories)
 
